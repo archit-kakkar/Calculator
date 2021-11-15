@@ -1,0 +1,54 @@
+body {
+    background-color: hsl(0, 0%, 90%);
+}
+
+/* Title Section */
+.title {
+    color: hsl(60, 10%, 19%);
+}
+
+.theme-btn {
+    background-color: hsl(45, 7%, 89%);
+    border: 1.5px solid hsl(35, 11%, 61%);
+    color: hsl(60, 10%, 19%);
+}
+
+/* Result Section */
+.live-result {
+    background-color: hsl(0, 0%, 93%);
+    color: hsl(60, 10%, 19%);
+}
+
+/* Main Section */
+.main {
+    background-color: hsl(0, 5%, 81%);
+}
+
+.key-btn {
+    background-color: hsl(45, 7%, 89%);
+    border-bottom: 3px solid hsl(35, 11%, 61%);
+    border-top: 3px solid hsl(45, 7%, 89%);
+    color: hsl(60, 10%, 19%);
+}
+
+.del-btn, .reset-btn {
+    background-color: hsl(185, 42%, 37%);
+    border-bottom: 3px solid hsl(185, 58%, 25%);
+    border-top: 3px solid hsl(185, 42%, 37%);
+    color: hsl(0, 0%, 100%);
+}
+
+.equals-btn {
+    background-color: hsl(25, 98%, 40%);
+    border-bottom: 3px solid hsl(25, 99%, 27%);
+    border-top: 3px solid hsl(25, 98%, 40%);
+    color: hsl(0, 0%, 100%);
+}
+
+.attribution {
+    color: hsl(60, 10%, 19%);
+}
+
+.attribution a {
+    color: hsl(185, 58%, 25%);
+  }
